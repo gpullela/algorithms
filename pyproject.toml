@@ -32,17 +32,10 @@ dev = [
     "ruff",
     "mypy",
     "black",
-    "ipytest",
-    "ipywidgets",
-    "jupytext",
-    "memory-profiler",
-    "nbconvert",
-    "nbformat",
-    "numpy",
     "plotly",
-    "polars",
-    "scipy",
-    "tqdm",
+    "python-fasthtml",
+    "uvicorn",
+    "fh-plotly",
 ]
 
 [tool.setuptools.packages.find]
