@@ -32,10 +32,8 @@ dev = [
     "ruff",
     "mypy",
     "black",
-    "plotly",
-    "python-fasthtml",
-    "uvicorn",
-    "fh-plotly",
+    "numba>=0.67.0",
+    "numpy>=2.2.6",
 ]
 
 [tool.setuptools.packages.find]
