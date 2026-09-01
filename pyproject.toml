@@ -32,8 +32,8 @@ dev = [
     "ruff",
     "mypy",
     "black",
-    "numba>=0.67.0",
-    "numpy>=2.2.6",
+    "numba",
+    "numpy",
 ]
 
 [tool.setuptools.packages.find]
